@@ -3,8 +3,6 @@
 
 Lihat penjelasannya di blog Nur Akhwan ==> (http://www.nur-akhwan.web.id/2013/10/aplikasi-sederhana-manajemen-surat.html)
 
-Link Demo di http://infosa-media.net/demo/asamurat/
-
 
 #Deskripsi
 Aplikasi ASAMURAT yang merupakan kependekan dari Aplikasi SederhanA Manajemen sURAT. Sesuai dengan kepanjangannya, aplikasi ini digunakan untuk mencatatat data surat masuk dan surat keluar dalam suatu instansi, dengan mudah, cepat dan sederhana. Tidak lagi diperlukan buku agenda surat masuk atau keluar, karena data surat telah tercatat dengan rapi melalui aplikasi ini. Sesuai namanya, fasilitas yang ditawarkan dalam aplikasi ini masih sangat sederhana. 
@@ -33,5 +31,11 @@ Aplikasi ASAMURAT yang merupakan kependekan dari Aplikasi SederhanA Manajemen sU
 3. Perbaikan di icon-icon setiap tombol
 4. Bisa digunakan di web server manapun tanpa harus setting disabled/enable php.ini
 
+#Versi 1.2 (Juli 2017)
+1. Tambahan fitur statistik surat di halaman dashboard
+2. Perbaikan tampilan saat scrolling ke atas, ada tampilan yang numpuk
+3. Perbaikan proses pada manajemen user
+4. Penambahan fitur tambah, edit, hapus pada klasifikasi surat
+5. Perbaikan pada fungsi ambil nomer surat masuk maupun keluar terakhir
 
-Kayaknya mentok di versi 1.1, dah.. 
+Kayaknya mentok di versi 1.2, dah.. 
